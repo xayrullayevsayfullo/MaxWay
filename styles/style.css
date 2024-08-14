@@ -521,6 +521,9 @@ span {
     justify-content: center;
     background-color: white;
     padding-top: 200px;
+    .buttons {
+        display: none;
+    }
     .footer__content {
         display: flex;
         gap: 84px;
@@ -544,9 +547,7 @@ span {
                 color:#F1B301;
             }
         }
-        .setting {
-            padding-left: 180px;
-        }
+        
     }
     .line {
         padding: 20px;
@@ -555,8 +556,7 @@ span {
         display: flex;
         align-items: center;
         gap: 805px;
-        justify-content: space-between;
-        padding-bottom: 20px;
+        padding-right: 100px;
         .ICON {
             display: flex;
             gap: 24px;
