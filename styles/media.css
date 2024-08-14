@@ -1,0 +1,624 @@
+
+@media (max-width: 1350px) {
+    .nav__content {
+        display: none;
+    }
+    .menu {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .header__nav {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px; 
+    }
+    .section6 {
+        margin: 100px;
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+        .phone2 {
+            display: flex;
+            margin-top: -130px;
+        }
+        .phone {
+            display: none;
+        }
+    h1 {
+        padding-left: 0px;
+        padding: 100px;
+        text-align: center;
+    }        
+        }
+
+}
+@media (min-width: 1200px) and (max-width: 1350px) {
+   .header__content {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+    line-height: 50px;
+   }
+   .content3 {
+    display: flex;
+    width: 628px;
+    height: 449px;
+    align-items: center;
+    justify-content: center;
+   }
+   .violet2 {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    top: 400px;
+    position: absolute;
+   }
+   .content2 {
+    display: none;
+   }
+   .section {
+    ul {
+        flex-wrap: wrap;
+    }
+   }
+   .section6 {
+   display: grid;
+   grid-template-columns: auto;
+   }
+   .boxes {
+    margin-top: 250px;
+    align-items: center;
+    justify-content: center;
+   }
+   
+}
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .header__content {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        color: white;
+       }
+       .content3 {
+        display: flex;
+        width: 628px;
+        height: 449px;
+        align-items: center;
+        justify-content: center;
+       }
+       .violet2 {
+        display: flex;
+        width: 100%;
+        height: 100%;
+        top: 400px;
+        position: absolute;
+       }
+       .content2 {
+        display: none;
+       }
+    .str {
+        padding-left: 500px;
+    }
+    .section {
+        width: 1000px;
+        ul {
+            flex-wrap: wrap;
+        }
+       }
+       .section__content {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+        #card {
+            display: none;
+        }
+       }
+       .section5 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section4 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section3 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section2 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section__content {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section__content2 {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+        #card {
+            display: none;
+        }
+       }
+       .section4__content {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+       }
+       .napitkalar {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+       }
+       .phone2 {
+        width: 708px;
+        height: 534px;
+       }
+       .boxes {
+        margin-top: 250px;
+        align-items: center;
+        justify-content: center;
+       }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .header__content {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        color: white;
+        h1 {
+            font-size: 50px;
+            line-height: 50px;
+       }
+       p {
+        margin-bottom: 70px;
+       }
+    }
+       .content3 {
+        display: flex;
+        width: 628px;
+        height: 449px;
+        align-items: center;
+        justify-content: center;
+       }
+       .violet2 {
+        
+        display: flex;
+        width: 100%;
+        height: 100%;
+        top: 400px;
+        position: absolute;
+       }
+       .content2 {
+        display: none;
+       }
+    .str {
+        padding-left: 400px;
+    }
+    .boxes {
+        display: flex;
+        flex-direction: column;
+    }
+    .section {
+        ul {
+          
+            flex-wrap: wrap;
+        }
+       }
+       .section {
+        width: 900px;
+        ul {
+            flex-wrap: wrap;
+        }
+       }
+       .section__content {
+        display: grid;
+        grid-template-columns: auto;
+        #card {
+            display: none;
+        }
+       }
+       .section__content {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+        #card {
+            display: none;
+        }
+       }
+       .section5 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section4 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section3 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section2 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section__content {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section__content2 {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+        #card {
+            display: none;
+        }
+       }
+       .section4__content {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+       }
+       .napitkalar {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+       }
+       .phone2 {
+        width: 608px;
+        height: 434px;
+       }
+       .boxes {
+        margin-top: 250px;
+        align-items: center;
+        justify-content: center;
+       }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .header__content {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        color: white;
+        padding: 30px;
+        h1 {
+            font-size: 50px;
+            line-height: 50px;
+            padding: 20px;
+       }
+       p {
+        margin-bottom: 70px;
+       }
+    }
+       .content3 {
+        display: flex;
+        width: 428px;
+        height: 349px;
+        align-items: center;
+        justify-content: center;
+       }
+       .violet2 {
+        
+        display: flex;
+        width: 100%;
+        height: 80%;
+        top: 400px;
+        position: absolute;
+       }
+       .content2 {
+        display: none;
+       }
+    
+    .str {
+        padding-left: 300px;
+    }
+        .boxes {
+        display: flex;
+        flex-direction: column;
+        padding-top: 30px;
+    }
+    .section {
+        width: 700px;
+        ul {
+            flex-wrap: wrap;
+        }
+       
+       }
+       .section__content {
+        display: grid;
+        grid-template-columns: auto;
+        #card {
+            display: none;
+        }
+       }
+       .section__content {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+        #card {
+            display: none;
+        }
+       }
+       .section5 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section4 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section3 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section2 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section__content {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section__content2 {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+        #card {
+            display: none;
+        }
+       }
+       .section4__content {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+       }
+       .napitkalar {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+       }
+       .phone2 {
+        width: 508px;
+        height: 434px;
+       }
+       .section6 {
+        width: 600px;
+        padding: 10px 30px;
+        padding-left: 0px;
+        h1 {
+            padding-left: 0px;
+            text-align: center;
+        }
+        .apple__google-play {
+            padding-left: 0px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+       }
+       .boxes {
+        margin-top: 250px;
+        align-items: center;
+        justify-content: center;
+       }
+}
+@media (max-width: 575.98px) { 
+    .header__content {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        color: white;
+        padding: 20px;
+        h1 {
+            font-size: 50px;
+            line-height: 50px;
+       }
+       p {
+        margin-bottom: 100px;
+        line-height: 30px;
+       }
+    }
+       .content3 {
+        display: flex;
+        width: 428px;
+        height: 349px;
+        align-items: center;
+        justify-content: center;
+       }
+       .violet2 {
+        
+        display: flex;
+        width: 100%;
+        height: 115%;
+        top: 400px;
+        position: absolute;
+       }
+       .content2 {
+        display: none;
+       }
+    
+    .str {
+        padding-left: 300px;
+    }
+    .str {
+        padding-left: 200px;
+    }
+    .boxes {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        margin-top: 220px;
+    }
+    .section {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 400px;
+        ul {
+            flex-wrap: wrap;
+        }   
+       }
+       .section__content {
+        display: grid;
+        grid-template-columns: auto;
+        #card {
+            display: none;
+        }
+       }
+       .section__content {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+        #card {
+            display: none;
+        }
+       }
+       .section5 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section4 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section3 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section2 {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section__content {
+        h1 {
+            padding-right: 0;
+            padding-left: 0;
+            text-align: center;
+        }
+        
+       }
+       .section__content2 {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+        
+        #card {
+            display: none;
+        }
+       }
+       .section4__content {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+       }
+       .napitkalar {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+       }
+              .phone2 {
+        width: 508px;
+        height: 434px;
+       }
+       .section6 {
+        width: 600px;
+        padding: 10px 30px;
+        padding-left: 0px;
+        h1 {
+            padding-left: 0px;
+            text-align: center;
+        }
+        .apple__google-play {
+            padding-left: 0px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+       }
+       .boxes {
+        margin-top: 400px;
+        align-items: center;
+        justify-content: center;
+       }
+}
